@@ -51,8 +51,8 @@ require 'byebug'
 # 			puts "#{state}: #{state_senator_count} senators, #{state_rep_count} representatives"
 # 		end
 
-puts "Senator: #{Person.where(title: "Sen").count}"
-puts "Representative: #{Person.where(title: "Rep").count}"
+# puts "Senator: #{Person.where(title: "Sen").count}"
+# puts "Representative: #{Person.where(title: "Rep").count}"
 
 
 
